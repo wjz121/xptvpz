@@ -487,6 +487,22 @@
       "api": "csp_xpanpan",
       "ext": "https://github.wjz121.us.kg/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/xpanpan.js"
     },
+    { "name": "森林资源|AV", "type": 1, "api": "https://slapibf.com/api.php/provide/vod/" },
+    { "name": "探探资源|AV", "type": 1, "api": "https://apittzy.com/api.php/provide/vod/" },
+    { "name": "奥斯卡资源|AV", "type": 1, "api": "https://aosikazy.com/api.php/provide/vod/" },
+    { "name": "老鸭资源|AV", "type": 1, "api": "https://api.apilyzy.com/api.php/provide/vod/" },
+    { "name": "91麻豆|AV", "type": 1, "api": "https://91md.me/api.php/provide/vod/" },
+    { "name": "易看资源|AV", "type": 1, "api": "https://api.yikanapi.com/api.php/provide/vod/" },
+    { "name": "番号资源|AV", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/" },
+    { "name": "鲨鱼资源|AV", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod/" },
+    { "name": "AIvin|AV", "type": 1, "api": "http://lbapiby.com/api.php/provide/vod/at/json" },
+    { "name": "黄瓜资源|AV", "type": 1, "api": "https://www.zy018.com/api.php/provide/vod/" },
+    { "name": "玉兔资源|AV", "type": 1, "api": "https://apiyutu.com/api.php/provide/vod/" },
+    { "name": "辣椒资源|AV", "type": 1, "api": "https://apilj.com/api.php/provide/vod/" },
+    { "name": "奶香香|AV", "type": 1, "api": "https://Naixxzy.com/api.php/provide/vod/" },
+    { "name": "精品资源|AV", "type": 1, "api": "https://www.jingpinx.com/api.php/provide/vod/" },
+    { "name": "草榴资源|AV", "type": 1, "api": "https://www.caoliuzyw.com/api.php/prodao/vod/" },
+    { "name": "老色逼资源|AV", "type": 1, "api": "https://apilsbzy1.com/api.php/provide/vod/" },
     {
       "name": "MISSAV", 
       "type": 3, 
@@ -612,7 +628,19 @@
       "type": 3,
       "api": "csp_avdb",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/avdb.js"
-  }
+  },
+    {
+      "name": "KanAV",
+      "type": 3,
+      "api": "csp_kanav",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/kanav.js"
+    },
+    {
+      "name": "kbjfan",
+      "type": 3,
+      "api": "csp_kbjfan",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/kbjfan.js"
+    }
     
   ]
 }
